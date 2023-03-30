@@ -8,8 +8,6 @@
 
  ⚡ Fun fact: I enjoy **Video**, **Image** and **Audio** Editing 
 
- 😄 Pronouns: He/Him
-
  📫 How to reach me:
 
   <div id="badges">
