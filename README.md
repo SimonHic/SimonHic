@@ -3,6 +3,7 @@
                   
 ## Hey there 👋 I'm Simon.
 
+### My [gh-pages site](https://simonhic.github.io/)
 ### ___Some things about me:___
  🌱 I’m currently learning: **Kotlin** ***&*** **Python**
 
