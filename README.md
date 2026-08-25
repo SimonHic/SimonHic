@@ -5,7 +5,7 @@
 
 ### My [gh-pages site](https://simonhic.github.io/)
 ### ___Some things about me:___
- 🌱 I’m currently learning: **Kotlin** ***&*** **Python**
+ 🌱 I’m currently learning: **ML** ***&*** **Python**
 
  ⚡ Fun fact: I enjoy **Video**, **Image** and **Audio** Editing 
 
